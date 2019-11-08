@@ -1,0 +1,2 @@
+#!/bin/bash
+erl -init_debug +sbwt none -pa _build/default/lib/*/ebin _checkouts/*/ebin -boot _build/default/rel/pure_ps/releases/1/pure_ps -config release-files/sys.config

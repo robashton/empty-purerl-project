@@ -1,0 +1,15 @@
+{
+    "set": "psc-0.13.3-20190831",
+    "depends": [
+        "console",
+        "js-timers",
+        "prelude",
+        "simple-json",
+        "web-socket",
+        "filterable",
+        "effect",
+        "canvas"
+    ],
+    "name": "client",
+    "source": "git@github.com:purescript/package-sets.git"
+}
